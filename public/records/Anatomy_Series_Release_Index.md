@@ -1,0 +1,30 @@
+# The Anatomy of… | release index
+
+Production status as of 24 September 2026. All source images are existing works with object-level attribution and terms in the linked package ledgers. No generated image, synthetic voice, stock music, Carrascosa training photograph or Formula 1 broadcast clip was used. Nothing was posted, scheduled, emailed or published.
+
+| Platform / format | Hug | Racing driver's neck | Production status |
+| --- | --- | --- | --- |
+| Instagram carousel | Four 1080 × 1350 slides, caption, alt, image ledger and originals in `hug/The_Anatomy_of_a_Hug_Production_Package.zip` | Five 1080 × 1350 slides, caption, alt, ledger and originals in `f1/Racing_Driver_Neck_upload_package.zip` | Exports ready for manual upload. |
+| LinkedIn document | Four-page PDF and post copy in Hug package | Five-page PDF and post copy in Racing package | PDF source annotations and URLs checked. |
+| Beehiiv web and email | Unpublished draft in The Polymath: four source images, alt text, linked credits and license/change notices. Web slug `anatomy-of-a-hug`. | Unpublished draft in The Polymath: five source images, alt text, linked credits and license/change notices. Web slug `anatomy-of-a-racing-drivers-neck`. | Both drafts created and rendered in beehiiv's email preview and standalone draft web URLs. Distinct source-photo thumbnails set for web feeds, with crop notices in each article. The posts list says **Draft** for both. No public published destination yet. |
+| Threads | Two distinct conversation posts with attached-image assignments and alt text in essay package | Two distinct conversation posts with attached-image assignments and alt text in essay package | All four main posts under 500 characters including visible source/license URLs. Unposted. |
+| Pinterest image Pins | Three distinct 1000 × 1500 PNGs, title/description/alt in `platform_photo/hug_Pinterest_and_TikTok_Photo_Mode.zip` | Three distinct 1000 × 1500 PNGs, title/description/alt in `platform_photo/racing_neck_Pinterest_and_TikTok_Photo_Mode.zip` | Image exports and copy complete. Set each Pin's destination to its verified public matching essay URL after the essays go live. |
+| TikTok Photo Mode | Four ordered 1080 × 1920 PNGs in Hug photo package | Five ordered 1080 × 1920 PNGs in Racing photo package | Native photo sequences with distinct, fully visible works; caption, alt, credits and license links included. |
+| Instagram Reels, TikTok video, YouTube Shorts | 1080 × 1920 H.264 MP4, 26.2 seconds in `video/Anatomy_of_Series_Video_Production_Package.zip` | 1080 × 1920 H.264 MP4, 32.6 seconds in same package | Finished **silent, caption-led** motion edits, with platform-specific self-contained upload text, full source/license/change notices and optional SRT. No recorded narration exists. |
+| Pinterest video Pin | Hug 9:16 MP4 and source record in video package | Racing 9:16 MP4 and source record in video package | Video export complete; public matching essay URL needed for linked Pin destination. |
+| YouTube long-form, 16:9 | Complete 5–6-minute narration and shot script centered on Wellcome's two images and provenance, plus bounded original touch research | Complete 5–6-minute narration and shot script centered on Sainz's first-person 2017 account and measured driver research | **Written film projects**, not 16:9 MP4s. A recorded narrator is needed for pacing, final subtitle timing and mix; the cleared stills can be used for a later edit. |
+
+## Contents and source records
+
+- `hug/The_Anatomy_of_a_Hug_Production_Package.zip`: original four images, Instagram slides, LinkedIn PDF, captions, alt text and exact art object/license ledger.
+- `f1/Racing_Driver_Neck_upload_package.zip`: original five images, Instagram slides, LinkedIn PDF, captions, alt text and exact photo/object/license ledger. The anatomy model and training equipment are identified by their actual subjects; Sainz's training specifics are sourced to his Formula 1 interview.
+- `Anatomy_Essays_Threads_Beehiiv_Import_Package.zip`: two complete Markdown essays, four HTML previews, nine originals and web/email resized versions, four Threads posts, README. The local HTML previews are not live URLs.
+- `platform_photo/hug_Pinterest_and_TikTok_Photo_Mode.zip` and `platform_photo/racing_neck_Pinterest_and_TikTok_Photo_Mode.zip`: Pins and Photo Mode PNG sequences, the per-platform copy/alt/license ledger. Original images are scaled intact; creator credits are on the exports.
+- `video/Anatomy_of_Series_Video_Production_Package.zip`: two silent MP4s, timed SRT, eight distinct upload-text files for Reels/TikTok/Shorts/Pinterest, master source ledger and two complete 16:9 film scripts.
+
+## Publishing handoff
+
+1. Review the two beehiiv drafts in The Polymath: [Hug editor](https://app.beehiiv.com/posts/3340f045-50fb-4a31-bac6-e789cc8458db/edit) and [Racing editor](https://app.beehiiv.com/posts/516f9d94-7a6b-4fab-b7c7-d8480a059eab/edit). The authenticated draft previews are [Hug](https://polymath-rn-collins.beehiiv.com/p/anatomy-of-a-hug?draft=true) and [Racing](https://polymath-rn-collins.beehiiv.com/p/anatomy-of-a-racing-drivers-neck?draft=true). These are preview links, not verified public destinations. Mobile email preview showed the custom subjects “The anatomy of a hug” and “The work under a racing driver’s helmet,” with short preview text. Publish/send only when authorized.
+2. After publication, check each public URL without `?draft=true`, then add the verified matching article URL to the Pinterest image and video Pins and any optional Threads article replies. Do not substitute a draft-preview URL for a live link.
+3. Upload the ready carousel, Photo Mode and silent short-video exports with the supplied platform-specific alt, captions and creator/license records. Keep their source records available even on platforms that truncate long descriptions.
+4. For voiced shorts or finished 16:9 films, record an authorized human narration of the supplied scripts, synchronize captions to that take and perform final audio/phone QA. The current short MP4s are complete silent edits; the long films are scripts.
